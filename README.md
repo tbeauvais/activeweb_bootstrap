@@ -1,4 +1,4 @@
-activeweb_bootstrap
+ActiveWeb Bootstrap
 ===================
 
-Initial ActiveWeb app using Bootstrap UI 
+Skeleton ActiveWeb app using Bootstrap UI 
